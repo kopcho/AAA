@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as follows."
+title: "Agent Artifact Availability (AAA)"
+abstract: "A framework defining the reliability property required for computational systems that preserve artifacts and accumulate computational work over time. The series introduces artifact graphs, the Artifact Availability Layer, Deterministic Artifact Identity, and the principle of Computational Work Conservation, culminating in the paradigm of Cumulative Computing."
+authors:
+  - family-names: Kopcho
+    given-names: Rich
+date-released: 2026-03-11
+version: "1.0"
+license: CC-BY-4.0
+repository-code: "https://github.com/kopcho/AAA"
+keywords:
+  - agent artifact availability
+  - AAA
+  - cumulative computing
+  - artifact graphs
+  - computational work conservation
+  - deterministic artifact identity
+  - artifact availability layer
+  - autonomous agents
+  - distributed systems
+  - AI infrastructure
+type: software
