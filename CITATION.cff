@@ -5,6 +5,7 @@ abstract: "A framework defining the reliability property required for computatio
 authors:
   - family-names: Kopcho
     given-names: Rich
+    orcid: "https://orcid.org/0009-0004-0371-3548"
 date-released: 2026-03-11
 version: "1.0"
 license: CC-BY-4.0
@@ -20,4 +21,26 @@ keywords:
   - autonomous agents
   - distributed systems
   - AI infrastructure
-type: software
+type: report
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.19059195"
+    description: "Technical Note 01 — Agent Artifact Availability"
+  - type: doi
+    value: "10.5281/zenodo.19059276"
+    description: "Technical Note 02 — Artifacts as Units of Computational Work"
+  - type: doi
+    value: "10.5281/zenodo.19059318"
+    description: "Technical Note 03 — Artifact Graphs"
+  - type: doi
+    value: "10.5281/zenodo.19059368"
+    description: "Technical Note 04 — Why Storage Systems Lose Computational Work"
+  - type: doi
+    value: "10.5281/zenodo.19059398"
+    description: "Technical Note 05 — The Artifact Availability Layer"
+  - type: doi
+    value: "10.5281/zenodo.19059435"
+    description: "Technical Note 06 — Deterministic Artifact Identity"
+  - type: doi
+    value: "10.5281/zenodo.19059468"
+    description: "Technical Note 07 — Computational Work Conservation"
